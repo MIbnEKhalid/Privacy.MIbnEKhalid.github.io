@@ -40,7 +40,7 @@ Only The Source Code Of This Website Is Covered Under The [WTFP LICENSE](https:/
 |                            |                                                                                                            | [docs-mbktechstudio.netlify.app](https://docs-mbktechstudio.netlify.app)               |                                                                                  |
 | **Portal Website**         | [Portal.MIbnEKhalid.github.io](https://github.com/MIbnEKhalid/Portal.MIbnEKhalid.github.io)                | [portal.mbktechstudio.com](https://portal.mbktechstudio.com)                           | Website For Admins and Test Users                                                |
 |                            |                                                                                                            | [portal-mbktechstudio.netlify.app](https://portal-mbktechstudio.netlify.app)           |                                                                                  |
-| **Portfolio Website**      | [Portfolio.MIbnEKhalid.github.io](https://github.com/MIbnEKhalid/Portal.MIbnEKhalid.github.io)             | [portfolio.mbktechstudio.com](https://portfolio.mbktechstudio.com)                     | My Personal Portfolio Website                                                    |
+| **Portfolio Website**      | [Portfolio.MIbnEKhalid.github.io](https://github.com/MIbnEKhalid/Portfolio.MIbnEKhalid.github.io)             | [portfolio.mbktechstudio.com](https://portfolio.mbktechstudio.com)                     | My Personal Portfolio Website                                                    |
 |                            |                                                                                                            | [ibnekhalid.me](https://ibnekhalid.me)                                                 |                                                                                  |
 |                            |                                                                                                            | [portfolio-mbktechstudio.netlify.app](https://portfolio-mbktechstudio.netlify.app)     |                                                                                  |
 | **Uni Library Website**    | [Unilib.MIbnEKhalid.github.io](https://github.com/MIbnEKhalid/Unilib.MIbnEKhalid.github.io)                | [unilib.mbktechstudio.com](https://unilib.mbktechstudio.com)                           | Website For My Uni Classmates                                                    |
@@ -54,6 +54,7 @@ Only The Source Code Of This Website Is Covered Under The [WTFP LICENSE](https:/
 ## Hosting:
 The Main Website (MBKTechStudio.com) Is Hosted On GitHub, While Other Website (SubDomains Of MBKTechStudio) Is Hosted On Netlify
 
+**NOTE:** Only The Source Code Of This Website Is Covered Under The [WTFP LICENSE](https://choosealicense.com/licenses/wtfpl/). The Project Documentation, Some Images, Blog Posts, And Other Content Are NOT Covered Under This License And Remain The Intellectual Property Of The Author.
 
 ## License
 
@@ -61,4 +62,4 @@ This project is licensed under the WTFPL - see the [LICENSE](LICENSE) file for d
  
 ## Contact
 
-For questions or contributions, please contact Muhammad Bin Khalid at [mbktechstudio.com/Support](https://mbktechstudio.com/Support/?Project=.MIbnEKhalid.github.io), [support@mbktechstudio.com](mailto:support@mbktechstudio.com) or [chmuhammadbinkhalid28.com](mailto:chmuhammadbinkhalid28.com).
+For questions or contributions, please contact Muhammad Bin Khalid at [mbktechstudio.com/Support](https://mbktechstudio.com/Support/?Project=PrivacyMIbnEKhalid), [support@mbktechstudio.com](mailto:support@mbktechstudio.com) or [chmuhammadbinkhalid28.com](mailto:chmuhammadbinkhalid28.com).
