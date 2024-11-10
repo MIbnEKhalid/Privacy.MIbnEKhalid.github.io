@@ -197,7 +197,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("Images/background.png") no-repeat;
+  background: url("https://mbktechstudio.com/Assets/Images/background.png") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -264,7 +264,7 @@ section .content{
   margin: 40px auto;
   font-family: 'Poppins', sans-serif;
 }
-.about{  background: url("Images/background.png") ;
+.about{  background: url("https://mbktechstudio.com/Assets/Images/background.png") ;
 }
 .about .about-details{
   display: flex;
